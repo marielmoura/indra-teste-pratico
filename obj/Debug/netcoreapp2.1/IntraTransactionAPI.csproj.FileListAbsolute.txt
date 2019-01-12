@@ -1,0 +1,14 @@
+C:\Users\marielmoura\source\repos\IntraTransactionAPI\IntraTransactionAPI\bin\Debug\netcoreapp2.1\IntraTransactionAPI.deps.json
+C:\Users\marielmoura\source\repos\IntraTransactionAPI\IntraTransactionAPI\bin\Debug\netcoreapp2.1\IntraTransactionAPI.runtimeconfig.json
+C:\Users\marielmoura\source\repos\IntraTransactionAPI\IntraTransactionAPI\bin\Debug\netcoreapp2.1\IntraTransactionAPI.runtimeconfig.dev.json
+C:\Users\marielmoura\source\repos\IntraTransactionAPI\IntraTransactionAPI\bin\Debug\netcoreapp2.1\IntraTransactionAPI.dll
+C:\Users\marielmoura\source\repos\IntraTransactionAPI\IntraTransactionAPI\bin\Debug\netcoreapp2.1\IntraTransactionAPI.pdb
+C:\Users\marielmoura\source\repos\IntraTransactionAPI\IntraTransactionAPI\obj\Debug\netcoreapp2.1\IntraTransactionAPI.csprojAssemblyReference.cache
+C:\Users\marielmoura\source\repos\IntraTransactionAPI\IntraTransactionAPI\obj\Debug\netcoreapp2.1\IntraTransactionAPI.csproj.CoreCompileInputs.cache
+C:\Users\marielmoura\source\repos\IntraTransactionAPI\IntraTransactionAPI\obj\Debug\netcoreapp2.1\IntraTransactionAPI.RazorAssemblyInfo.cache
+C:\Users\marielmoura\source\repos\IntraTransactionAPI\IntraTransactionAPI\obj\Debug\netcoreapp2.1\IntraTransactionAPI.RazorAssemblyInfo.cs
+C:\Users\marielmoura\source\repos\IntraTransactionAPI\IntraTransactionAPI\obj\Debug\netcoreapp2.1\IntraTransactionAPI.AssemblyInfoInputs.cache
+C:\Users\marielmoura\source\repos\IntraTransactionAPI\IntraTransactionAPI\obj\Debug\netcoreapp2.1\IntraTransactionAPI.AssemblyInfo.cs
+C:\Users\marielmoura\source\repos\IntraTransactionAPI\IntraTransactionAPI\obj\Debug\netcoreapp2.1\IntraTransactionAPI.RazorTargetAssemblyInfo.cache
+C:\Users\marielmoura\source\repos\IntraTransactionAPI\IntraTransactionAPI\obj\Debug\netcoreapp2.1\IntraTransactionAPI.dll
+C:\Users\marielmoura\source\repos\IntraTransactionAPI\IntraTransactionAPI\obj\Debug\netcoreapp2.1\IntraTransactionAPI.pdb
